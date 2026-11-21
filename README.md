@@ -22,4 +22,4 @@ https://github.com/checker2nd/Miyatsu_Pro_Production
 https://github.com/sato3100/suimin404
 
 ## ミニマル空間破壊パズル「MinimalDelight」(Unity1week お題「うら」　評価の高かった作品 掲載)
-https://unityroom.com/games/minimaldelight
+https://github.com/checker888/1week260315
