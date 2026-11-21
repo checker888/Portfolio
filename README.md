@@ -9,7 +9,7 @@ https://github.com/kanek0j1/spajam-edps
 ## ダイクストラ法を活用した簡易経路表示アプリケーション
 https://github.com/checker2nd/mapshortestpath
 
-## 幅優先探索を活用したパックマン風2Dゲーム「grasscorridor」(ハックツハッカソン ~ブラキオカップ~ 2024  Progate企業賞 受賞)
+## 幅優先探索を活用したパックマン風2Dゲーム「grasscorridor」(ハックツハッカソン ブラキオカップ 2024  Progate企業賞 受賞)
 https://github.com/checker888/amatou
 
 ## 防災DXデイ用避難所運営システム
